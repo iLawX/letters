@@ -212,7 +212,7 @@ details summary {
   padding: 15px;
 }
 details summary::-webkit-details-marker {
-  list-style: none;
+  display: none;
 }
 h2 {
   padding: 10px 0;
