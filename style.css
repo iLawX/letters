@@ -20,7 +20,7 @@ html {
   direction: rtl;
 }
 body {
-  /* font-family: "Tajawal", sans-serif; */
+  font-family: "Galaxy", sans-serif;
   height: 100vh;
   background-image: url("images/sunburst.png");
   background-size: cover;
