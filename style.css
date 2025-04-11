@@ -12,6 +12,10 @@
   padding: 0;
   margin: 0;
 }
+@font-face {
+  font-family: "Galaxy";
+  src: url("fonts/Galaxy.woff2") format("woff2");
+}
 html {
   direction: rtl;
 }
